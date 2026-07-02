@@ -56,4 +56,4 @@ MIT — see `LICENSE`.
 
 ## Made by
 
-**Alight** — [GitHub](https://github.com/Alightttt) [X/Twitter](https://x.com/0xalyt)
+**Alight** — [GitHub](https://github.com/Alightttt) | [X/Twitter](https://x.com/0xalyt)
