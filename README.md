@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/logo.png" width="100" alt="Perch logo" />
+  <img src="assets/perch-logo.png" width="100" alt="Perch logo" />
 </p>
 
 <h1 align="center">Perch</h1>
@@ -32,9 +32,12 @@ Tap the Perch tile in your notification shade (same place as your Wi-Fi and Blue
 ## Screenshots
 
 <p align="center">
-  <img src="assets/screenshot-overlay.png" width="260" />
-  <img src="assets/screenshot-themes.png" width="260" />
-  <img src="assets/screenshot-dashboard.png" width="260" />
+  <img src="assets/screenshot_1.jpg" width="260" />
+  <img src="assets/screenshot_2.jpg" width="260" />
+  <img src="assets/screenshot_3.jpg" width="260" />
+  <img src="assets/screenshot_4.jpg" width="260" />
+  <img src="assets/screenshot_5.jpg" width="260" />
+  <img src="assets/screenshot_6.jpg" width="260" />
 </p>
 
 ## Getting Perch
