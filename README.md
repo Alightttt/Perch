@@ -7,7 +7,8 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/platform-Android-3DDC84?logo=android&logoColor=white" />
-  <img src="https://img.shields.io/github/license/YOUR_USERNAME/perch" />
+  <img src="https://img.shields.io/github/license/Alightttt/perch" />
+  <img src="https://img.shields.io/badge/status-early%20build-orange" />
 </p>
 
 <p align="center">
@@ -29,21 +30,33 @@ Tap the Perch tile in your notification shade (same place as your Wi-Fi and Blue
 - **Everything stays on your device** — notes are stored locally in plain markdown, nothing goes to a server
 - **Bring your existing notes in** — import a whole folder of `.txt`/`.md` files in one go
 
-## Screenshots
+## A quick look
 
 <p align="center">
   <img src="assets/screenshot_1.jpg" width="49%">
   <img src="assets/screenshot_2.jpg" width="49%">
+</p>
+<p align="center">
+  <sub><i>[caption — e.g. "the overlay landing over another app"]</i></sub>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <sub><i>[caption]</i></sub>
 </p>
 
 <p align="center">
   <img src="assets/screenshot_3.jpg" width="49%">
   <img src="assets/screenshot_4.jpg" width="49%">
 </p>
+<p align="center">
+  <sub><i>[caption]</i></sub>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <sub><i>[caption]</i></sub>
+</p>
 
 <p align="center">
   <img src="assets/screenshot_5.jpg" width="49%">
   <img src="assets/screenshot_6.jpg" width="49%">
+</p>
+<p align="center">
+  <sub><i>[caption]</i></sub>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <sub><i>[caption]</i></sub>
 </p>
 
 ## Getting Perch
@@ -57,7 +70,11 @@ Tap the Perch tile in your notification shade (same place as your Wi-Fi and Blue
 
 ## Built with
 
-Kotlin, Jetpack Compose, Room.
+<p>
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?logo=kotlin&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jetpack%20Compose-4285F4?logo=jetpackcompose&logoColor=white" />
+  <img src="https://img.shields.io/badge/Room-DB-lightgrey" />
+</p>
 
 ## License
 
@@ -66,3 +83,5 @@ MIT — see `LICENSE`.
 ## Made by
 
 **Alight** — [GitHub](https://github.com/Alightttt) | [X/Twitter](https://x.com/0xalyt)
+
+<sub>If Perch saves you a thought or two, a ⭐ on the repo helps other people find it.</sub>
