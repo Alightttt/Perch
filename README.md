@@ -7,7 +7,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/platform-Android-3DDC84?logo=android&logoColor=white" />
-  <img src="https://img.shields.io/github/license/Alightttt/perch" />
+  <img src="https://img.shields.io/github/license/Alightttt/perch?style=flat-square" />
   <img src="https://img.shields.io/badge/status-early%20build-orange" />
 </p>
 
