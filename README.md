@@ -37,8 +37,7 @@ Tap the Perch tile in your notification shade (same place as your Wi-Fi and Blue
   <img src="assets/screenshot_2.jpg" width="49%">
 </p>
 <p align="center">
-  <sub><i>[caption — e.g. "the overlay landing over another app"]</i></sub>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <sub><i>[caption]</i></sub>
+  </sub>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
 <p align="center">
@@ -46,8 +45,7 @@ Tap the Perch tile in your notification shade (same place as your Wi-Fi and Blue
   <img src="assets/screenshot_4.jpg" width="49%">
 </p>
 <p align="center">
-  <sub><i>[caption]</i></sub>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <sub><i>[caption]</i></sub>
+  </sub>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
 <p align="center">
@@ -55,8 +53,7 @@ Tap the Perch tile in your notification shade (same place as your Wi-Fi and Blue
   <img src="assets/screenshot_6.jpg" width="49%">
 </p>
 <p align="center">
-  <sub><i>[caption]</i></sub>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <sub><i>[caption]</i></sub>
+  </sub>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
 ## Getting Perch
