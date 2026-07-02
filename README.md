@@ -32,12 +32,12 @@ Tap the Perch tile in your notification shade (same place as your Wi-Fi and Blue
 ## Screenshots
 
 <p align="center">
-  <img src="assets/screenshot_1.jpg" width="260" />
-  <img src="assets/screenshot_2.jpg" width="260" />
-  <img src="assets/screenshot_3.jpg" width="260" />
-  <img src="assets/screenshot_4.jpg" width="260" />
-  <img src="assets/screenshot_5.jpg" width="260" />
-  <img src="assets/screenshot_6.jpg" width="260" />
+  <img src="assets/screenshot_1.jpg" width="170" />
+  <img src="assets/screenshot_2.jpg" width="170" />
+  <img src="assets/screenshot_3.jpg" width="170" />
+  <img src="assets/screenshot_4.jpg" width="170" />
+  <img src="assets/screenshot_5.jpg" width="170" />
+  <img src="assets/screenshot_6.jpg" width="170" />
 </p>
 
 ## Getting Perch
