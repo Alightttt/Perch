@@ -79,6 +79,6 @@ MIT — see `LICENSE`.
 
 ## Made by
 
-**Alight** — [GitHub](https://github.com/Alightttt) | [X/Twitter](https://x.com/0xalyt)
+**Alight** — [X/Twitter](https://x.com/0xalyt)
 
 <sub>If Perch saves you a thought or two, a ⭐ on the repo helps other people find it.</sub>
